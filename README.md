@@ -19,8 +19,6 @@
 ![Phpstorm](https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=Phpstorm&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-### Hi there 👋
-
 <!--
 **blueHermitage/bluehermitage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
