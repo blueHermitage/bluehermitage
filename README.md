@@ -1,4 +1,4 @@
-# J'utilise régulièrmeent :
+# J'utilise régulièrement :
 
 ![Ansible](https://img.shields.io/badge/ansible-ffffff.svg?style=for-the-badge&logo=ansible&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-222222.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
