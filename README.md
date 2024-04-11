@@ -1,8 +1,8 @@
 # J'utilise régulièrement :
 
 ![Ansible](https://img.shields.io/badge/ansible-ffffff.svg?style=for-the-badge&logo=ansible&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-222222.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-ffffff.svg?style=for-the-badge&logo=markdown&logoColor=222222)
+![Shell Script](https://img.shields.io/badge/shell_script-222222.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-e34930.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-e34930.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
