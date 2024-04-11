@@ -2,7 +2,7 @@
 
 ![Ansible](https://img.shields.io/badge/ansible-ffffff.svg?style=for-the-badge&logo=ansible&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-00fa00.svg?style=for-the-badge&logo=gnu-bash&logoColor=00fa00)
+![Shell Script](https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=00fa00)
 ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
