@@ -1,4 +1,4 @@
-# I use often :
+# J'utilise régulièrmeent :
 
 ![Ansible](https://img.shields.io/badge/ansible-ffffff.svg?style=for-the-badge&logo=ansible&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-222222.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -15,22 +15,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mate](https://img.shields.io/badge/Mate-84A454?style=for-the-badge&logo=ubuntu-MATE&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Phpstorm](https://img.shields.io/badge/phpstorm-8f56f3?style=for-the-badge&logo=Phpstorm&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
-<!--
-**blueHermitage/bluehermitage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
